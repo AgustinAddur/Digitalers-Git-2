@@ -3,7 +3,7 @@
 ## Repaso de tipos de datos
 
 - [Enteros](/1-Tipos_de_Datos.py)
-- Flotantes
+- [Flotantes](/2-Decimales.py)
 - Cadenas de textos
 - Listas
 - Tuplas
