@@ -2,7 +2,7 @@
 
 ## Repaso de tipos de datos
 
-- Enteros 
+- [Enteros](/1-Tipos_de_Datos.py)
 - Flotantes
 - Cadenas de textos
 - Listas
